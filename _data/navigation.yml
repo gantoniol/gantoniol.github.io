@@ -12,9 +12,9 @@ main:
   - title: "Services"
     url: /services/
 
-- title: "Leadership"
+  - title: "Leadership"
     url: /leadership/
-        
+    
   - title: "Blog Posts"
     url: /year-archive/
     
