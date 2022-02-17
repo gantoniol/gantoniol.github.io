@@ -9,8 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Services"
+    url: /services/
+
+- title: "Leadership"
+    url: /leadership/
         
   - title: "Blog Posts"
     url: /year-archive/
