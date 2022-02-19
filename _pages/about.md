@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+What I believe
+======
+
 Proudly using open source software, my goal is to reclaim my own freedom! Let’s go back to a really democratic internet. Let’s pay for products and services: If You Are Not Paying for the Product, You Are the Product!
 
 Who I am 
