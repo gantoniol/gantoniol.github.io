@@ -35,3 +35,6 @@ On the WEB
 | --------         | ------ | ------------------------------------------------------ |
 
 
+
+For an unsorted list of [my papers](assets/bibliography.html)
+------
