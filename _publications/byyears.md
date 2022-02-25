@@ -1,0 +1,12 @@
+---
+collection: publications
+type: ""
+permalink: /publications/byyears
+---
+
+[In journals](journals.html)
+
+[In proceedings](proceedings.html)
+
+
+{% include byyears-asset.html %}
