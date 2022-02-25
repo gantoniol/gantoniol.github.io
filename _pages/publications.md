@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 [In journals](journals.html)
 
 [In proceedings](proceedings.html)
