@@ -16,3 +16,7 @@ author_profile: true
 [In proceedings](proceedings.html)
 
 [By years](byyears.html)
+
+## Selected publications
+
+{% include selected-asset.html %}
