@@ -9,4 +9,4 @@ permalink: /publications/byyears
 [In proceedings](proceedings.html)
 
 
-{% include byyears-asset.html %}
+{% include byyears-sections-asset.html %}
