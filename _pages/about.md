@@ -34,7 +34,3 @@ On the WEB
 |  [Google Scholar](http://scholar.google.com/citations?user=136elhQAAAAJ&amp;hl=en)              |  [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Antoniol:Giuliano.html)    |     [Arnet Miner](https://aminer.org/profile/giuliano-antoniol/5440592fdabfae805a6b2c3d)                                                             |
 | --------         | ------ | ------------------------------------------------------ |
 
-
-
-For an unsorted list of [my papers](assets/bibliography.html)
-------
