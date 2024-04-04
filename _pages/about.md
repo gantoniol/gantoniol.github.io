@@ -19,7 +19,9 @@ Who I am
 
 Giuliano Antoniol (Giulio) received his Laurea degree in electronic engineering from the Universita’ di Padova, Italy, in 1982. In 2004, he received his PhD in Electrical Engineering at the Ecole Polytechnique de Montreal. He worked in companies, research institutions, and universities. From 2005 to 2019, he directed the Canada Research Chair Tier I in Software Change and Evolution.
 
-He has participated in the program and organization committees of numerous IEEE-sponsored international conferences. He served as program chair, industrial chair, tutorial, and general chair of international conferences and workshops. He is a member of the editorial boards of the Journal of Software Testing Verification & Reliability, the Software Quality Journal, and the Journal of Software: Evolution and Process.
+He has participated in the program and organization committees of numerous IEEE-sponsored
+international conferences. He served as program chair, industrial chair, tutorial, and
+general chair of international conferences and workshops. He was  a member of the editorial boards of the Journal of Software Testing Verification & Reliability, the Software Quality Journal, and the Journal of Software: Evolution and Process.
 
 Dr Giuliano Antoniol was Deputy Chair of the Steering Committee for the IEEE International Conference on Software Maintenance. He contributed to the program committees of more than 30 IEEE and ACM conferences and workshops, and he acted as a referee for all major software engineering journals.
 
