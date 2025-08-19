@@ -27,4 +27,4 @@ group :jekyll_plugins do
 end
 
 #gem 'jekyll-scholar', group: :jekyll_plugins
-gem "webrick", "~> 1.7"
+#gem "webrick", "~> 1.7"
